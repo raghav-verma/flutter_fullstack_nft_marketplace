@@ -4,7 +4,7 @@ This project combines the power of Flutter, a versatile cross-platform developme
 
 ## Author
 
-- [@mobtereststudio](https://www.youtube.com/@mobtereststudio)
+- [@raghav-verma]
 
 ## Deployment
 
